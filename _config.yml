@@ -9,7 +9,11 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
+<<<<<<< HEAD
 title                    : "Sripath Mishra"
+=======
+title                    : "Sripath Mishra Website"
+>>>>>>> 5839735f2326d297752f9d1c801d72d554262fa7
 title_separator          : "-"
 name                     : &name "Sripath Mishra"
 description              : &description "PhD Student in Computer Science"   # Update this with a general description of your site, this is the default if not overridden by a page
