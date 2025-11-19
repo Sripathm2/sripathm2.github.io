@@ -1,10 +1,7 @@
 ---
 title: "Automated Discovery of Real-Time Network Camera Data From Heterogeneous Web Pages"
 collection: publications
-<<<<<<< HEAD
 category: conferences
-=======
->>>>>>> 5839735f2326d297752f9d1c801d72d554262fa7
 permalink: /publication/2021-arxiv-cameras
 excerpt: 'This paper presents automated methods for discovering network camera data from web pages.'
 date: 2021-03-23

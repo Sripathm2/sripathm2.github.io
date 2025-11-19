@@ -1,10 +1,7 @@
 ---
 title: "Enriching Network Traffic Traces for Increasing Classification Accuracy"
 collection: publications
-<<<<<<< HEAD
 category: conferences
-=======
->>>>>>> 5839735f2326d297752f9d1c801d72d554262fa7
 permalink: /publication/2025-ipccc
 excerpt: 'This paper presents methods for enriching network traffic traces to improve classification accuracy.'
 date: 2025-01-01
