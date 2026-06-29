@@ -12,5 +12,4 @@ Intrusion detection for UAV networks where the topology, traffic, and threats ch
 
 **Links**
 * Paper (IEEE EDGE 2026): [arXiv preprint](https://arxiv.org/abs/2606.17845)
-* Dataset: [UAV-CAS on IEEE DataPort](https://ieee-dataport.org/documents/uav-cas-calibrated-digital-twin-dataset-intrusion-detection-uav-swarm-networks)
 * Code: *TODO — add GitHub repo link*

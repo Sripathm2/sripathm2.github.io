@@ -8,11 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I build machine learning systems that detect intrusions in dynamic UAV (drone) networks, where models have to stay accurate as the network topology, traffic, and threats shift in real time. My work combines federated learning, retrieval-augmented generation (RAG), and graph neural networks to make intrusion detection scalable across a swarm, generalizable to unseen attacks, and adaptive without constant retraining. I am a Computer Science PhD candidate at Purdue University, advised by Dr. Bharat Bhargava, and I am pursuing **Applied Scientist, Machine Learning Engineer, and Research Engineer roles** with a 2027 start.
+I build machine learning systems that detect intrusions in dynamic UAV (drone) networks, where models have to stay accurate as the network topology, traffic, and threats shift in real time. My work combines federated learning, retrieval-augmented generation (RAG), and graph neural networks to make intrusion detection scalable across a swarm, generalizable to unseen attacks, and adaptive without constant retraining. I am a Computer Science PhD candidate at Purdue University, and I am pursuing **Applied Scientist, Machine Learning Engineer, and Research Engineer roles** with a 2027 start.
 
 Most recently I developed **FlowRAG**, a retrieval-augmented intrusion detection approach for UAV networks (accepted at IEEE EDGE 2026), and released **UAV-CAS**, a calibrated digital-twin dataset and benchmark for intrusion detection in UAV swarm networks. Across projects I work end to end: simulation and data generation, model design and training, and evaluation against realistic adversarial conditions.
 
 ## Research Interests
+* Explainable AI 
 * Machine learning for security and intrusion detection
 * Federated and distributed learning
 * Retrieval-augmented generation (RAG) and LLMs for systems
