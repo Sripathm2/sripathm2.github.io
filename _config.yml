@@ -12,7 +12,7 @@ site_theme               : "default" # Currently available options are "default"
 title                    : "Sripath Mishra"
 title_separator          : "-"
 name                     : &name "Sripath Mishra"
-description              : &description "PhD Student in Computer Science"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Sripath Mishra — Computer Science PhD candidate at Purdue building machine learning systems for UAV network security and intrusion detection (federated learning, retrieval-augmented generation, graph neural networks)."   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://sripathm2.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,11 +26,11 @@ author:
   avatar           : "profile.png"
   name             : "Sripath Mishra"
   pronouns         : # example: "she/her"  
-  bio              : "PhD Student at Purdue University, working on UAV Network Security and Intrusion Detection"
+  bio              : "CS PhD candidate at Purdue. Machine learning for UAV network security: intrusion detection with federated learning, RAG, and GNNs. Seeking Applied Scientist / ML Engineer roles."
   location         : "West Lafayette, IN"
   employer         : "Purdue University"
   uri              : "https://sripathm2.github.io"
-  email            : "Mishra60{-AT-}purdue.edu" 
+  email            : "mishra60@purdue.edu" 
 
   # Academic websites
   academia         : # URL
@@ -87,6 +87,8 @@ publication_category:
     title: 'Journal Articles'    
   conferences:
     title: 'Conference Papers'
+  datasets:
+    title: 'Datasets & Benchmarks'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
@@ -140,7 +142,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Social media default site image
+og_image                 : "/images/profile.png"  # Social media default site image
 og_description           :  # Social media default site image description
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles

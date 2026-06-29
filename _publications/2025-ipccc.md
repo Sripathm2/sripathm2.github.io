@@ -3,10 +3,9 @@ title: "Enriching Network Traffic Traces for Increasing Classification Accuracy"
 collection: publications
 category: conferences
 permalink: /publication/2025-ipccc
-excerpt: 'This paper presents methods for enriching network traffic traces to improve classification accuracy.'
+excerpt: 'Methods for enriching network traffic traces to improve classification accuracy, plus a large-scale traffic generator that exposes the limits of current classifiers.'
 date: 2025-01-01
 venue: '2025 IEEE International Performance, Computing, and Communications Conference (IPCCC)'
-paperurl: '#'
 citation: '<b>Sripath Mishra</b>, Akhil Prasad, Sonia Fahmy. "Enriching Network Traffic Traces for Increasing Classification Accuracy." <i>2025 IEEE International Performance, Computing, and Communications Conference (IPCCC)</i>.'
 ---
 

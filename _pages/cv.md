@@ -11,7 +11,8 @@ redirect_from:
 
 Education
 ======
-* **Ph.D. in Computer Science**, Purdue University, West Lafayette, IN (In Progress)
+* **Ph.D. in Computer Science**, Purdue University, West Lafayette, IN (In Progress, expected 2027)
+  * Advisor: Dr. Bharat Bhargava
 * **M.S. in Computer Science**, University of California, Los Angeles, CA, December 2021
 * **B.S. in Computer Science**, Purdue University, West Lafayette, IN, May 2020
   * Honors, Part of Dean's Honor List, Best Sophomore Award for C.S.
@@ -20,6 +21,7 @@ Research Experience
 ======
 * **Research in Prof Bhargava's Team** (Jan 2025 - Present)
   * Build scalable, generalizable, and adaptive intrusion detection for dynamic UAV networks using machine learning, retrieval-augmented methods, and federated learning.
+  * Developed FlowRAG, a retrieval-augmented intrusion detection approach (accepted at IEEE EDGE 2026), and released UAV-CAS, a calibrated digital-twin dataset and benchmark for UAV swarm intrusion detection (IEEE DataPort).
 
 * **Research in Prof Fahmy's Team** (Jan 2023 - Jan 2025)
   * Enabling network traffic classification using topological data analysis and developing a large scale network traffic generator to highlight limits in current network traffic classifiers.
@@ -35,7 +37,7 @@ Research Experience
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
@@ -52,16 +54,12 @@ Teaching Experience
 
 Skills
 ======
+* **Machine Learning:** Deep learning, graph neural networks (GNNs), federated/distributed learning, retrieval-augmented generation (RAG), LLMs, computer vision
+* **ML Engineering:** PyTorch, TensorFlow, model training & evaluation, data pipelines, experiment design, large-scale data generation
+* **Security & Networks:** Intrusion detection, network traffic analysis & classification, UAV / FANET security, adversarial evaluation, digital-twin simulation
 * **Programming Languages:** Python, Java, C++, JavaScript
-* **Machine Learning:** Graph Neural Networks, Deep Learning, Federated Learning
-* **Networks:** Network Traffic Analysis, Intrusion Detection, UAV Networks
-* **Tools & Frameworks:** TensorFlow, PyTorch, Git, REST APIs
-* **Research Areas:** 
-  * UAV Network Security
-  * Network Traffic Classification
-  * Graph Neural Networks
-  * Computer Vision
-  * Software Engineering
+* **Tools & Infrastructure:** Git, REST APIs, Linux, network simulation
+* **Research Areas:** UAV network security, ML for systems and security, graph learning, network traffic classification
 
 Awards and Honors
 ======
