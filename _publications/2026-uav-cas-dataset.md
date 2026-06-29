@@ -15,7 +15,7 @@ citation: '<b>Sripath Mishra</b>, et al. "UAV-CAS: A Calibrated Digital-Twin Dat
 UAV-CAS is a calibrated digital-twin dataset and benchmark for intrusion detection in UAV swarm networks, designed to support scalable and generalizable detection research.
 
 **Links**
-* [Dataset on IEEE DataPort](https://ieee-dataport.org/documents/uav-cas-calibrated-digital-twin-dataset-intrusion-detection-uav-swarm-networks)
+* [Dataset on IEEE DataPort](https://dx.doi.org/10.21227/zgrg-z865)
 * [Paper (arXiv preprint)](https://arxiv.org/abs/2606.17845)
 
 **Venue:** IEEE DataPort
